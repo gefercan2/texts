@@ -1,0 +1,338 @@
+[
+  {
+    "Source": "CRITIQUE OF PURE REASON",
+    "Target": "Doctrine of Elements",
+    "Value": "7"
+  },
+  {
+    "Source": "CRITIQUE OF PURE REASON",
+    "Target": "Doctrine of Methods",
+    "Value": "7"
+  },
+  {
+    "Source": "Doctrine of Elements",
+    "Target": "Trascendental Aesthetic",
+    "Value": "5"
+  },
+  {
+    "Source": "Doctrine of Elements",
+    "Target": "Trascendental Logic",
+    "Value": "5"
+  },
+  {
+    "Source": "Trascendental Logic",
+    "Target": "Trascendental Analytic",
+    "Value": "1"
+  },
+  {
+    "Source": "Trascendental Logic",
+    "Target": "Trascendental Dialectic",
+    "Value": "1"
+  },
+  {
+    "Source": "Trascendental Aesthetic",
+    "Target": "1.Introductory",
+    "Value": "1"
+  },
+  {
+    "Source": "Trascendental Aesthetic",
+    "Target": "Section I of Space",
+    "Value": "1"
+  },
+  {
+    "Source": "Trascendental Aesthetic",
+    "Target": "Section II of Time",
+    "Value": "1"
+  },
+  {
+    "Source": "Section I of Space",
+    "Target": "2. Metaphysical Exposition of this Conception.",
+    "Value": "1"
+  },
+  {
+    "Source": "Section I of Space",
+    "Target": "3. Transcendental Exposition of the Conception of Space.",
+    "Value": "1"
+  },
+  {
+    "Source": "Section I of Space",
+    "Target": "4. Conclusions from the foregoing Conceptions.",
+    "Value": "1"
+  },
+  {
+    "Source": "Section II of Time",
+    "Target": "5.Metaphysical Exposition of this Conception.",
+    "Value": "1"
+  },
+  {
+    "Source": "Section II of Time",
+    "Target": "6.Transcendental Exposition of the Conception of Time.",
+    "Value": "1"
+  },
+  {
+    "Source": "Section II of Time",
+    "Target": "7.Conclusions from the above Conceptions.",
+    "Value": "1"
+  },
+  {
+    "Source": "Section II of Time",
+    "Target": "8. Elucidation.",
+    "Value": "1"
+  },
+  {
+    "Source": "Section II of Time",
+    "Target": "9. General Remarks on Transcendental Æsthetic.",
+    "Value": "1"
+  },
+  {
+    "Source": "Section II of Time",
+    "Target": "10. Conclusion of the Transcendental Æsthetic.",
+    "Value": "1"
+  },
+  {
+    "Source": "Book I. Analytic of Conceptions.",
+    "Target": "Chapter I. Of the Transcendental Clue to the Discovery of all Pure Conceptions of the Understanding",
+    "Value": "1"
+  },
+  {
+    "Source": "Book I. Analytic of Conceptions.",
+    "Target": "Chapter II. Of the Deduction of the Pure Conception of the Understanding",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter I. Of the Transcendental Clue to the Discovery of all Pure Conceptions of the Understanding",
+    "Target": "Section I. Of the Logical Use of the Understanding in General.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter I. Of the Transcendental Clue to the Discovery of all Pure Conceptions of the Understanding",
+    "Target": "Section II. Of the Logical Function of the Understanding in Judgements.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter I. Of the Transcendental Clue to the Discovery of all Pure Conceptions of the Understanding",
+    "Target": " Section III. Of the Pure Conceptions of the Understanding",
+    "Value": " or Categories. "
+  },
+  {
+    "Source": "Trascendental Analytic",
+    "Target": "Book I. Analytic of Conceptions.",
+    "Value": "1"
+  },
+  {
+    "Source": "Trascendental Analytic",
+    "Target": "Book II. Analytic of Principles",
+    "Value": "1"
+  },
+  {
+    "Source": "Book II. Analytic of Principles",
+    "Target": "Chapter I. Of the Schematism at of the Pure Conceptions of the Understanding.",
+    "Value": "1"
+  },
+  {
+    "Source": "Book II. Analytic of Principles",
+    "Target": "Chapter II. System of all Principles of the Pure Understanding.",
+    "Value": "1"
+  },
+  {
+    "Source": "Book II. Analytic of Principles",
+    "Target": "Chapter III Of the Ground of the Division of all Objects into Phenomena and Noumena.",
+    "Value": "1"
+  },
+  {
+    "Source": "Doctrine of Methods",
+    "Target": "Chapter I. The Discipline of Pure Reason.",
+    "Value": "1"
+  },
+  {
+    "Source": "Doctrine of Methods",
+    "Target": "Chapter II. The Canon of Pure Reason.",
+    "Value": "1"
+  },
+  {
+    "Source": "Doctrine of Methods",
+    "Target": "Chapter III. The Architectonic of Pure Reason",
+    "Value": "1"
+  },
+  {
+    "Source": "Doctrine of Methods",
+    "Target": "Chapter IV. The History of Pure Reason.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter II. System of all Principles of the Pure Understanding.",
+    "Target": "Section I. Of the Supreme Principle of all Analytical Judgements.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter II. System of all Principles of the Pure Understanding.",
+    "Target": "Section II. Of the Supreme Principle of all Synthetical Judgements.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter II. System of all Principles of the Pure Understanding.",
+    "Target": "Section III. Systematic Representation of all Synthetical Principles of the Pure Understanding.",
+    "Value": "1"
+  },
+  {
+    "Source": "Trascendental Dialectic",
+    "Target": "INTRODUCTION.",
+    "Value": "1"
+  },
+  {
+    "Source": "Trascendental Dialectic",
+    "Target": "BOOK I—OF THE CONCEPTIONS OF PURE REASON.",
+    "Value": "1"
+  },
+  {
+    "Source": "Trascendental Dialectic",
+    "Target": "BOOK II—OF THE DIALECTICAL PROCEDURE OF PURE REASON.",
+    "Value": "1"
+  },
+  {
+    "Source": "BOOK I—OF THE CONCEPTIONS OF PURE REASON.",
+    "Target": "Section I—Of Ideas in General.",
+    "Value": "1"
+  },
+  {
+    "Source": "BOOK I—OF THE CONCEPTIONS OF PURE REASON.",
+    "Target": "Section II. Of Transcendental Ideas.",
+    "Value": "1"
+  },
+  {
+    "Source": "BOOK I—OF THE CONCEPTIONS OF PURE REASON.",
+    "Target": "Section III. System of Transcendental Ideas.",
+    "Value": "1"
+  },
+  {
+    "Source": "BOOK II—OF THE DIALECTICAL PROCEDURE OF PURE REASON.",
+    "Target": "Chapter I. Of the Paralogisms of Pure Reason.",
+    "Value": "1"
+  },
+  {
+    "Source": "BOOK II—OF THE DIALECTICAL PROCEDURE OF PURE REASON.",
+    "Target": "Chapter II. The Antinomy of Pure Reason.",
+    "Value": "1"
+  },
+  {
+    "Source": "BOOK II—OF THE DIALECTICAL PROCEDURE OF PURE REASON.",
+    "Target": "Chapter III. The Ideal of Pure Reason.",
+    "Value": "1"
+  },
+  {
+    "Source": "BOOK II—OF THE DIALECTICAL PROCEDURE OF PURE REASON.",
+    "Target": "Appendix. Of the Regulative Employment of the Ideas of Pure Reason.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter I. Of the Paralogisms of Pure Reason.",
+    "Target": "Section I. System of Cosmological Ideas.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter I. Of the Paralogisms of Pure Reason.",
+    "Target": "Section II. Antithetic of Pure Reason.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter I. Of the Paralogisms of Pure Reason.",
+    "Target": "Section III. Of the Interest of Reason in these Self-contradictions.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter I. Of the Paralogisms of Pure Reason.",
+    "Target": "Section IV. Of the necessity imposed upon Pure Reason of presenting a Solution of its Transcendental Problems.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter I. Of the Paralogisms of Pure Reason.",
+    "Target": "Section V. Sceptical Exposition of the Cosmological Problems presented in the four Transcendental Ideas.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter I. Of the Paralogisms of Pure Reason.",
+    "Target": "Section VI. Transcendental Idealism as the Key to the Solution of Pure Cosmological Dialectic.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter I. Of the Paralogisms of Pure Reason.",
+    "Target": "Section VII. Critical Solution of the Cosmological Problem.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter I. Of the Paralogisms of Pure Reason.",
+    "Target": "Section VIII. Regulative Principle of Pure Reason in relation to the Cosmological Ideas.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter I. Of the Paralogisms of Pure Reason.",
+    "Target": "Section IX. Of the Empirical Use of the Regulative Principle of Reason with regard to the Cosmological Ideas.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter II. The Antinomy of Pure Reason.",
+    "Target": "Section I. Of the Ideal in General.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter II. The Antinomy of Pure Reason.",
+    "Target": "Section II. Of the Transcendental Ideal (Prototypon Trancendentale).",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter II. The Antinomy of Pure Reason.",
+    "Target": "Section III. Of the Arguments employed by Speculative Reason in Proof of the Existence of a Supreme Being.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter II. The Antinomy of Pure Reason.",
+    "Target": "Section IV. Of the Impossibility of an Ontological Proof of the Existence of God.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter II. The Antinomy of Pure Reason.",
+    "Target": "Section V. Of the Impossibility of a Cosmological Proof of the Existence of God.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter II. The Antinomy of Pure Reason.",
+    "Target": "Section VI. Of the Impossibility of a Physico-Theological Proof.",
+    "Value": "1"
+  },
+  {
+    "Source": "Chapter II. The Antinomy of Pure Reason.",
+    "Target": "Section VII. Critique of all Theology based upon Speculative Principles of Reason.",
+    "Value": "1"
+  },
+  {
+    "Source": "Section IX. Of the Empirical Use of the Regulative Principle of Reason with regard to the Cosmological Ideas.",
+    "Target": "I. Solution of the Cosmological Idea of the Totality of the Composition of Phenomena in the Universe.",
+    "Value": "1"
+  },
+  {
+    "Source": "Section IX. Of the Empirical Use of the Regulative Principle of Reason with regard to the Cosmological Ideas.",
+    "Target": "II. Solution of the Cosmological Idea of the Totality of the Division of a Whole given in Intuition.",
+    "Value": "1"
+  },
+  {
+    "Source": "Section IX. Of the Empirical Use of the Regulative Principle of Reason with regard to the Cosmological Ideas.",
+    "Target": "III. Solution of the Cosmological Idea of the Totality of the Deduction of Cosmical Events from their Causes.",
+    "Value": "1"
+  },
+  {
+    "Source": "Section IX. Of the Empirical Use of the Regulative Principle of Reason with regard to the Cosmological Ideas.",
+    "Target": "IV. Solution of the Cosmological Idea of the Totality of the Dependence of Phenomenal Existences.",
+    "Value": "1"
+  },
+  {
+    "Source": "INTRODUCTION.",
+    "Target": "I. Of Transcendental Illusory Appearance.",
+    "Value": "1"
+  },
+  {
+    "Source": "INTRODUCTION.",
+    "Target": "II. Of Pure Reason as the Seat of Transcendental Illusory Appearance.",
+    "Value": "1"
+  },
+
+ 
