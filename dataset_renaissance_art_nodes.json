@@ -1,0 +1,398 @@
+[
+  {
+    "name": "NAPLES",
+    "type": "city",
+    "birth": "Kingdom",
+    "death": " (Campania",
+    "main discipline": " Sicilia) ",
+    "link": "Kingdom of Naples",
+    "value": ""
+  },
+  {
+    "name": "FLORENCE",
+    "type": "city",
+    "birth": "city state",
+    "death": "(Tuscany)",
+    "main discipline": "Republic of Florence",
+    "link": "",
+    "value": "4"
+  },
+  {
+    "name": "MANTUA",
+    "type": "city",
+    "birth": "city state",
+    "death": "",
+    "main discipline": "Duchy of Mantua",
+    "link": "",
+    "value": "3"
+  },
+  {
+    "name": "MILAN",
+    "type": "city",
+    "birth": "city state",
+    "death": "(Lombardia)",
+    "main discipline": "Duchy oF Milan",
+    "link": "",
+    "value": "3"
+  },
+  {
+    "name": "PADUA",
+    "type": "city",
+    "birth": "city state",
+    "death": "",
+    "main discipline": "",
+    "link": "",
+    "value": "2"
+  },
+  {
+    "name": "ROME",
+    "type": "city",
+    "birth": "city state",
+    "death": "(Lazio)",
+    "main discipline": "Papal Estates",
+    "link": "",
+    "value": "6"
+  },
+  {
+    "name": "SIENA",
+    "type": "city",
+    "birth": "city state",
+    "death": "(Tuscany)",
+    "main discipline": "Republic of Siena",
+    "link": "",
+    "value": "2"
+  },
+  {
+    "name": "URBINO",
+    "type": "city",
+    "birth": "city state",
+    "death": "",
+    "main discipline": "Duchy of Urbino",
+    "link": "",
+    "value": "2"
+  },
+  {
+    "name": "VENICE",
+    "type": "city",
+    "birth": "city state",
+    "death": "(Veneto)",
+    "main discipline": "Republic of Venice (La Serenissima)",
+    "link": "",
+    "value": "5"
+  },
+  {
+    "name": "Veronese",
+    "type": "artist",
+    "birth": "b. 1528",
+    "death": "d. 1588",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Tintoretto",
+    "type": "artist",
+    "birth": "b. 1518",
+    "death": "d. 1594",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Jacopo Bassano",
+    "type": "artist",
+    "birth": " b. 1510",
+    "death": " Venice ",
+    "main discipline": " d. 1592",
+    "link": " Venice ",
+    "value": "painter"
+  },
+  {
+    "name": "Andrea Palladio",
+    "type": "artist",
+    "birth": "b. 1508",
+    "death": "d. 1580",
+    "main discipline": "architect",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Pontormo",
+    "type": "artist",
+    "birth": " b. 1494",
+    "death": " Pontorme ",
+    "main discipline": " d. 1557",
+    "link": " Florence ",
+    "value": "painter"
+  },
+  {
+    "name": "Andrea del Sarto",
+    "type": "artist",
+    "birth": "b. 1486",
+    "death": "d. 1531",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Titian",
+    "type": "artist",
+    "birth": "b. 1485",
+    "death": "d. 1576",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Raphael",
+    "type": "artist",
+    "birth": " b. 1483",
+    "death": " Sanzio ",
+    "main discipline": "d. 1520 Rome",
+    "link": "painter",
+    "value": ""
+  },
+  {
+    "name": "Michelangelo",
+    "type": "artist",
+    "birth": "b. 1475",
+    "death": "d. 1564",
+    "main discipline": "sculptor",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Giorgione",
+    "type": "artist",
+    "birth": "b. 1473-78",
+    "death": "d. 1510",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Leonardo",
+    "type": "artist",
+    "birth": " b. 1452",
+    "death": " Vinci ",
+    "main discipline": "d. 1519",
+    "link": "painter",
+    "value": ""
+  },
+  {
+    "name": "Perugino",
+    "type": "artist",
+    "birth": "b. 1446",
+    "death": "d. 1523",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Bramante",
+    "type": "artist",
+    "birth": "b. 1444",
+    "death": "d. 1514",
+    "main discipline": "architect",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Verrocchio",
+    "type": "artist",
+    "birth": "b. 1435",
+    "death": "d. 1488",
+    "main discipline": "sculptor",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Mantegna",
+    "type": "artist",
+    "birth": "b. 1431",
+    "death": "d. 1506",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Giovanni Bellini",
+    "type": "artist",
+    "birth": "b. 1430",
+    "death": "d. 1516",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Gentile Bellini",
+    "type": "artist",
+    "birth": "b. 1429",
+    "death": "d. 1507",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Antonello de Messina",
+    "type": "artist",
+    "birth": "b. 1425–1430",
+    "death": "d. 1479",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Piero della Francesca",
+    "type": "artist",
+    "birth": "b. 1415",
+    "death": "d. 1492",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Filippo Lippi",
+    "type": "artist",
+    "birth": "b. 1406",
+    "death": "d. 1469",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Alberti",
+    "type": "artist",
+    "birth": "b. 1404",
+    "death": "d. 1472",
+    "main discipline": "architect",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Massaccio",
+    "type": "artist",
+    "birth": "b. 1401",
+    "death": "d. 1428",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Paolo Ucello",
+    "type": "artist",
+    "birth": "b. 1397",
+    "death": "d. 1475",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Fra Angelico",
+    "type": "artist",
+    "birth": "b. 1395",
+    "death": "d. 1455",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Donatello",
+    "type": "artist",
+    "birth": "b. 1386",
+    "death": "d. 1466",
+    "main discipline": "sculptor",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Brunelleschi",
+    "type": "artist",
+    "birth": "b. 1377",
+    "death": "d. 1446",
+    "main discipline": "sculptor",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Taddeo Gaddi",
+    "type": "artist",
+    "birth": "b. 1300",
+    "death": " d",
+    "main discipline": " 1366 ",
+    "link": "painter",
+    "value": ""
+  },
+  {
+    "name": "Duccio Buonisegna",
+    "type": "artist",
+    "birth": "b. 1255",
+    "death": "d. 1318–1319",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Giovanni Pisano",
+    "type": "artist",
+    "birth": "b. 1250",
+    "death": "d. 1315",
+    "main discipline": "sculptor",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Giulio Romano",
+    "type": "artist",
+    "birth": " b. 1499",
+    "death": " Roma ",
+    "main discipline": " d. 1546",
+    "link": " Mantua ",
+    "value": "painter"
+  },
+  {
+    "name": "Sandro Botticelli",
+    "type": "artist",
+    "birth": "b. 1445",
+    "death": "d. 1510",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Jacopo Bellini",
+    "type": "artist",
+    "birth": "b. 1396",
+    "death": " d. 1470",
+    "main discipline": " Venice ",
+    "link": "painter",
+    "value": ""
+  },
+  {
+    "name": "Giotto di Bondone",
+    "type": "artist",
+    "birth": "b. 1267",
+    "death": "d. 1337",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "Cimabue",
+    "type": "artist",
+    "birth": "b. 1240",
+    "death": "d. 1302",
+    "main discipline": "painter",
+    "link": "",
+    "value": "0.5"
+  },
+  {
+    "name": "PERUGIA",
+    "type": "city",
+    "birth": "",
+    "death": "",
+    "main discipline": "",
+    "link": "",
+    "value": "2"
+  }
+]
