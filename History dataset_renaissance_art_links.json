@@ -1,0 +1,357 @@
+[
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "ROME"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Pontormo"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Andrea del Sarto"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Alberti"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Sandro Botticelli"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Brunelleschi"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Cimabue"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Duccio Buonisegna"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Donatello"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Filippo Lippi"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Fra Angelico"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Ghirlandaio"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Giotto di Bondone"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Leonardo"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Mantegna"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Massaccio"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Michelangelo"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Perugino"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Piero della Francesca"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Raphael"
+  },
+  {
+    "1": "5",
+    "city": "FLORENCE",
+    "artists": "Rome"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Taddeo Gaddi"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Verrocchio"
+  },
+  {
+    "1": "1",
+    "city": "FLORENCE",
+    "artists": "Paolo Ucello"
+  },
+  {
+    "1": "1",
+    "city": "Gentile Bellini",
+    "artists": "Giovanni Bellini"
+  },
+  {
+    "1": "1",
+    "city": "MANTUA",
+    "artists": "Giulio Romano"
+  },
+  {
+    "1": "1",
+    "city": "MANTUA",
+    "artists": "Alberti"
+  },
+  {
+    "1": "1",
+    "city": "MANTUA",
+    "artists": "Andrea Palladio"
+  },
+  {
+    "1": "1",
+    "city": "MANTUA",
+    "artists": "Mantegna"
+  },
+  {
+    "1": "1",
+    "city": "MILAN",
+    "artists": "Bramante"
+  },
+  {
+    "1": "1",
+    "city": "MILAN",
+    "artists": "Leonardo"
+  },
+  {
+    "1": "1",
+    "city": "NAPLES",
+    "artists": "ROME"
+  },
+  {
+    "1": "1",
+    "city": "NAPLES",
+    "artists": "Antonello de Messina"
+  },
+  {
+    "1": "1",
+    "city": "PADUA",
+    "artists": "Donatello"
+  },
+  {
+    "1": "1",
+    "city": "PADUA",
+    "artists": "Filippo Lippi"
+  },
+  {
+    "1": "1",
+    "city": "PADUA",
+    "artists": "Giotto di Bondone"
+  },
+  {
+    "1": "1",
+    "city": "PADUA",
+    "artists": "Jacopo Bellini"
+  },
+  {
+    "1": "1",
+    "city": "PADUA",
+    "artists": "Mantegna"
+  },
+  {
+    "1": "1",
+    "city": "Paolo Ucello",
+    "artists": "Florence"
+  },
+  {
+    "1": "1",
+    "city": "PERUGIA",
+    "artists": "Perugino"
+  },
+  {
+    "1": "1",
+    "city": "ROME",
+    "artists": "Sandro Botticelli"
+  },
+  {
+    "1": "1",
+    "city": "ROME",
+    "artists": "Fra Angelico"
+  },
+  {
+    "1": "1",
+    "city": "ROME",
+    "artists": "Giulio Romano"
+  },
+  {
+    "1": "1",
+    "city": "ROME",
+    "artists": "Botticelli"
+  },
+  {
+    "1": "1",
+    "city": "ROME",
+    "artists": "Bramante"
+  },
+  {
+    "1": "1",
+    "city": "ROME",
+    "artists": "Cimabue"
+  },
+  {
+    "1": "1",
+    "city": "ROME",
+    "artists": "Donatello"
+  },
+  {
+    "1": "1",
+    "city": "ROME",
+    "artists": "Leonardo"
+  },
+  {
+    "1": "1",
+    "city": "ROME",
+    "artists": "Michelangelo"
+  },
+  {
+    "1": "1",
+    "city": "ROME",
+    "artists": "Perugino"
+  },
+  {
+    "1": "1",
+    "city": "ROME",
+    "artists": "Raphael"
+  },
+  {
+    "1": "1",
+    "city": "ROME",
+    "artists": "Naples"
+  },
+  {
+    "1": "1",
+    "city": "SIENA",
+    "artists": "Duccio Buonisegna"
+  },
+  {
+    "1": "1",
+    "city": "SIENA",
+    "artists": "FLORENCE"
+  },
+  {
+    "1": "1",
+    "city": "SIENA",
+    "artists": "Giovanni Pisano"
+  },
+  {
+    "1": "1",
+    "city": "URBINO",
+    "artists": "Bramante"
+  },
+  {
+    "1": "1",
+    "city": "URBINO",
+    "artists": "Piero della Francesca"
+  },
+  {
+    "1": "1",
+    "city": "URBINO",
+    "artists": "Raphael"
+  },
+  {
+    "1": "1",
+    "city": "VENICE",
+    "artists": "Andrea Palladio"
+  },
+  {
+    "1": "1",
+    "city": "VENICE",
+    "artists": "Antonello de Messina"
+  },
+  {
+    "1": "1",
+    "city": "VENICE",
+    "artists": "Gentile Bellini"
+  },
+  {
+    "1": "1",
+    "city": "VENICE",
+    "artists": "Giorgione"
+  },
+  {
+    "1": "1",
+    "city": "VENICE",
+    "artists": "Giovanni Bellini"
+  },
+  {
+    "1": "1",
+    "city": "VENICE",
+    "artists": "Jacopo Bassano"
+  },
+  {
+    "1": "1",
+    "city": "VENICE",
+    "artists": "Jacopo Bellini"
+  },
+  {
+    "1": "1",
+    "city": "VENICE",
+    "artists": "Mantegna"
+  },
+  {
+    "1": "5",
+    "city": "VENICE",
+    "artists": "ROME"
+  },
+  {
+    "1": "1",
+    "city": "VENICE",
+    "artists": "Tintoretto"
+  },
+  {
+    "1": "1",
+    "city": "VENICE",
+    "artists": "Titian"
+  },
+  {
+    "1": "1",
+    "city": "VENICE",
+    "artists": "Veronese"
+  },
+  {
+    "1": "1",
+    "city": "VENICE",
+    "artists": "Verrocchio"
+  }
+]
