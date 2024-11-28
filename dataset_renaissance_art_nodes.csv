@@ -1,0 +1,45 @@
+name,type,birth,death,main discipline,link,value
+NAPLES,city,Kingdom,"(Campania, Sicilia)",Kingdom of Naples,,2
+FLORENCE,city,city state,(Tuscany),Republic of Florence,,4
+MANTUA,city,city state,,Duchy of Mantua,,3
+MILAN,city,city state,(Lombardia),Duchy oF Milan,,3
+PADUA,city,city state,,,,2
+ROME,city,city state,(Lazio),Papal Estates,,6
+SIENA,city,city state,(Tuscany),Republic of Siena,,2
+URBINO,city,city state,,Duchy of Urbino,,2
+VENICE,city,city state,(Veneto),Republic of Venice (La Serenissima),,5
+Veronese,artist,b. 1528,d. 1588,painter,,0.5
+Tintoretto,artist,b. 1518,d. 1594,painter,,0.5
+Jacopo Bassano,artist,"b. 1510, Venice","d. 1592, Venice",painter,,0.5
+Andrea Palladio,artist,b. 1508,d. 1580,architect,,0.5
+Pontormo,artist,"b. 1494, Pontorme","d. 1557, Florence",painter,,0.5
+Andrea del Sarto,artist,b. 1486,d. 1531,painter,,0.5
+Titian,artist,b. 1485,d. 1576,painter,,0.5
+Raphael,artist,"b. 1483, Sanzio",d. 1520 Rome,painter,,0.5
+Michelangelo,artist,b. 1475,d. 1564,sculptor,,0.5
+Giorgione,artist,b. 1473-78,d. 1510,painter,,0.5
+Leonardo,artist,"b. 1452, Vinci",d. 1519,painter,,0.5
+Perugino,artist,b. 1446,d. 1523,painter,,0.5
+Bramante,artist,b. 1444,d. 1514,architect,,0.5
+Verrocchio,artist,b. 1435,d. 1488,sculptor,,0.5
+Mantegna,artist,b. 1431,d. 1506,painter,,0.5
+Giovanni Bellini,artist,b. 1430,d. 1516,painter,,0.5
+Gentile Bellini,artist,b. 1429,d. 1507,painter,,0.5
+Antonello de Messina,artist,b. 1425–1430,d. 1479,painter,,0.5
+Piero della Francesca,artist,b. 1415,d. 1492,painter,,0.5
+Filippo Lippi,artist,b. 1406,d. 1469,painter,,0.5
+Alberti,artist,b. 1404,d. 1472,architect,,0.5
+Massaccio,artist,b. 1401,d. 1428,painter,,0.5
+Paolo Ucello,artist,b. 1397,d. 1475,painter,,0.5
+Fra Angelico,artist,b. 1395,d. 1455,painter,,0.5
+Donatello,artist,b. 1386,d. 1466,sculptor,,0.5
+Brunelleschi,artist,b. 1377,d. 1446,sculptor,,0.5
+Taddeo Gaddi,artist,b. 1300,"d, 1366",painter,,0.5
+Duccio Buonisegna,artist,b. 1255,d. 1318–1319,painter,,0.5
+Giovanni Pisano,artist,b. 1250,d. 1315,sculptor,,0.5
+Giulio Romano,artist,"b. 1499, Roma","d. 1546, Mantua",painter,https://artsandculture.google.com/story/giulio-romano-9-works/hAWh-5_ooAvJLA?hl=en,0.5
+Sandro Botticelli,artist,b. 1445,d. 1510,painter,,0.5
+Jacopo Bellini,artist,b. 1396,"d. 1470, Venice",painter,,0.5
+Giotto di Bondone,artist,b. 1267,d. 1337,painter,,0.5
+Cimabue,artist,b. 1240,d. 1302,painter,,0.5
+PERUGIA,city,,,,,2
