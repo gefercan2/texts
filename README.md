@@ -1,4 +1,4 @@
-Repository of text files in csv or json format for use in datavisualizations
+Repository of text files in csv or json format for use in datavisualizations, usually the json are extracted from the csv so the later are the primary source
 you can check here:<br>
 https://github.com/metmuseum/openaccess<br>
 https://dahd.hcommons.org/open-data-collections/<br>
