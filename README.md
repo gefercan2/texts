@@ -7,6 +7,9 @@ https://www.textfixer.com/ <br>
 https://tartarus.org/martin/PorterStemmer/ <br>
 https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/lexos-installers/ <br>
 
+guidelines to format according to Text Initiative (TEI)<br>
+https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html
+
 for text analysis we can use Voyant<br>
 https://voyant-tools.org/ <br><br>
 
