@@ -1,5 +1,5 @@
 Repository of text files<br>
-Useful page for cleaning and formatting texts for text analysis:
+Useful page for cleaning and formatting texts for text analysis:<br>
 https://guides.library.uq.edu.au/tools-and-techniques/text-mining-and-analysis/preparing-text-for-analysis  <br>
 https://openrefine.org/ <br>
 https://ucrel.lancs.ac.uk/vard/about/ <br>
