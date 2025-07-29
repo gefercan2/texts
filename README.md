@@ -5,6 +5,7 @@ https://openrefine.org/ <br>
 https://ucrel.lancs.ac.uk/vard/about/ <br>
 https://www.textfixer.com/ <br>
 https://tartarus.org/martin/PorterStemmer/ <br>
+https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/lexos-installers/ <br>
 
 for text analysis we can use Voyant<br>
 https://voyant-tools.org/ <br><br>
